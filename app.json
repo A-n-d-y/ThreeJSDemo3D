@@ -3,11 +3,11 @@
 		"type": "App"
 	},
 	"project": {
-		"shadows": true,
+		"shadows": false,
 		"shadowType": 0,
 		"vr": false,
 		"physicallyCorrectLights": false,
-		"toneMapping": 4,
+		"toneMapping": 3,
 		"toneMappingExposure": 1
 	},
 	"camera": {
